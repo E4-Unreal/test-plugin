@@ -1,0 +1,3 @@
+[submodule "TestPlugin/Plugins/UniversalUtilities"]
+	path = TestPlugin/Plugins/UniversalUtilities
+	url = https://github.com/E4-Unreal/plugin-universal-utilities
