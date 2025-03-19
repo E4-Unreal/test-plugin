@@ -1,3 +1,6 @@
 [submodule "TestPlugin/Plugins/UniversalUtilities"]
 	path = TestPlugin/Plugins/UniversalUtilities
 	url = https://github.com/E4-Unreal/plugin-universal-utilities
+[submodule "TestPlugin/Plugins/UniversalGameFramework"]
+	path = TestPlugin/Plugins/UniversalGameFramework
+	url = https://github.com/E4-Unreal/plugin-universal-game-framework.git
